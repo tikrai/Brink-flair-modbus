@@ -16,7 +16,6 @@ substitutions:
   brink_temp_to_outside: Temperature to outside
   brink_humidity_to_outside: Humidity to outside
   brink_temp_from_outside: Temperature from outside
-  brink_temp_from_inside: Temperature from inside
   brink_supply_pressure: Supply pressure
   brink_exhaust_pressure: Exhaust pressure
   brink_setpoint_inlet_volume: Setpoint inlet air volume
