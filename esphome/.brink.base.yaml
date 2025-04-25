@@ -179,7 +179,7 @@ sensor:
     filters:
       - multiply: 0.1
 
-  - id: brink_temp_from_vid  # NTC2
+  - id: brink_temp_from_inside  # NTC2
     name: ${brink_temp_from_inside}
     platform: modbus_controller
     modbus_controller_id: ${name}
